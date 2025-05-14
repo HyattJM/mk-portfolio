@@ -1,4 +1,3 @@
-// src/data/projects.js
 export const projects = [
   {
     title: "Breakout x Pong",
@@ -23,5 +22,13 @@ export const projects = [
     tech: ["React", "Tailwind", "Vite"],
     github: "https://github.com/yourname/portfolio",
     demo: "#",
+  },
+  {
+    title: "???",
+    description:
+      "A secret project is in the works. All will be revealed in due time...",
+    tech: ["Secret", "🔥", "TBA"],
+    github: "#",
+    demo: "",
   },
 ]
