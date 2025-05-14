@@ -1,12 +1,13 @@
 export const projects = [
   {
-    title: "Breakout x Pong",
+    title: "Pong x Breakout Hybrid",
     description:
-      "A hybrid game built with Pygame — classic ball-bouncing chaos.",
-    tech: ["Python", "Pygame", "OOP"],
-    github: "https://github.com/yourname/pong-breakout",
-    demo: "", // optional
+      "A tribute to the first two Atari games — built in Python with Pygame. A chaotic mashup of paddle, bricks, and power.",
+    tech: ["Python", "Pygame"],
+    github: "https://github.com/HyattJM/pygame-thirty",
+    demo: "", // You could add a YouTube demo link later if hosted
   },
+
   {
     title: "Workout Tracker API",
     description:
